@@ -1,47 +1,36 @@
-# 🌐 Jandy Roach – Developer Portfolio
+🌙 Personal Portfolio Website
+🚀 Overview
 
-Welcome to the source code of my personal developer portfolio website!  
-This site is a reflection of my journey, skills, and the projects I’ve built — all in one place.
+This is my dark-themed personal portfolio website built using React.
+It showcases my skills, projects, and interests in a modern and interactive way.
 
-🔗 **Live Site:** [https://jandyroach.tech](https://jandyroach.tech)
+🎯 Purpose
 
----
+The portfolio serves as a digital space to introduce who I am — a creative individual passionate about filmmaking, web development, and storytelling.
+It helps visitors and recruiters easily explore my work, connect with me through social platforms, and view my featured projects.
 
-## 🚀 Features
+🧩 Features
 
-- 📱 **Responsive Design** – Optimized for desktop, tablet, and mobile devices
-- 🎨 **Modern UI/UX** – Built with Tailwind CSS and smooth animations
-- 🧩 **Project Showcase** – Real deployed projects with GitHub links
-- 💼 **Skills Section** – Grouped by Frontend, Backend, and Tools
-- 🗂️ **Resume Section** – You can Download my resume
-- 🔗 **Custom Domain** – Hosted at `jandyroach.tech`
-- ⚡ **Fast & Lightweight** – Clean performance with optimized assets
+⚡ Built with React
 
----
+🎨 Dark and minimal design for a cinematic look
 
-## 🛠️ Tech Stack
+📸 Personalized hero section with profile image
 
-- **Frontend**: React, Tailwind CSS, Framer Motion
-- **Deployment**: Vercel
-- **Other Tools**: GitHub, Figma (for design), Canva (for assets)
+💼 Projects section highlighting key works
 
----
+📱 Fully responsive design
 
-## 🧠 Why I Built This
+🔗 Social media icons (Instagram, LinkedIn, Email) with clickable links
 
-I wanted a place to showcase not just my projects, but how I think and build as a developer — so I crafted this site to be both clean and personal.
+💬 Smooth navigation between sections
 
----
+🏗️ Tech Stack
 
-## 📬 Contact
+React.js
 
-Feel free to reach out or connect:
+JavaScript (ES6+)
 
-- LinkedIn: [jandyroach](https://www.linkedin.com/in/jandy-roach-9234a032a)
-- Instagram: [@jandy_roach_](https://instagram.com/jandy_roach_)
-- Email: jandyroachy@gmail.com
+HTML5 & CSS3
 
----
-
-> If you liked this project, give it a ⭐ and explore the site here → [https://jandyroach.tech](https://jandyroach.tech)
-
+React Icons
